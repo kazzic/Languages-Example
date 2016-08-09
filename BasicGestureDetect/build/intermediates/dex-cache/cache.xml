@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/gordonzeng/AndroidStudioProjects/BasicGestureDetect/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d96886efea7cc74fbb3abd0e3b51d5638fc57be0">
+        <dex dex="/Users/gordonzeng/AndroidStudioProjects/BasicGestureDetect/Application/build/intermediates/pre-dexed/debug/classes-f05f10ac3527ecf19a6e17030eb9c373222e93b0.jar" />
+    </item>
+    <item
+        jar="/Users/gordonzeng/AndroidStudioProjects/BasicGestureDetect/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/Users/gordonzeng/AndroidStudioProjects/BasicGestureDetect/Application/build/intermediates/pre-dexed/debug/internal_impl-23.1.0-8a3a4e3412591cda8a4f0347bee62b913bb26a46.jar" />
+    </item>
+    <item
+        jar="/Users/gordonzeng/AndroidStudioProjects/BasicGestureDetect/Application/build/intermediates/exploded-aar/com.android.support/support-v13/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="076c7d9e22cc325b8008ff799e0c06dfb8eefdf3">
+        <dex dex="/Users/gordonzeng/AndroidStudioProjects/BasicGestureDetect/Application/build/intermediates/pre-dexed/debug/internal_impl-23.1.0-dd5c58302e94bfa0d500096dd4712964b6f19fbb.jar" />
+    </item>
+    <item
+        jar="/Users/gordonzeng/AndroidStudioProjects/BasicGestureDetect/Application/build/intermediates/exploded-aar/com.android.support/support-v13/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1a57337a520bf40b9ad1e074cb780527dffa1aac">
+        <dex dex="/Users/gordonzeng/AndroidStudioProjects/BasicGestureDetect/Application/build/intermediates/pre-dexed/debug/classes-ce26b17692849013a37f2a7110b2c1b5baf87516.jar" />
+    </item>
+    <item
+        jar="/Users/gordonzeng/AndroidStudioProjects/BasicGestureDetect/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/Users/gordonzeng/AndroidStudioProjects/BasicGestureDetect/Application/build/intermediates/pre-dexed/debug/classes-2fac0e588c770c4328f95b0d799d873982c8ddf6.jar" />
+    </item>
+    <item
+        jar="/Users/gordonzeng/Development/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="/Users/gordonzeng/AndroidStudioProjects/BasicGestureDetect/Application/build/intermediates/pre-dexed/debug/support-annotations-23.1.0-86f85455aea387624e276059c59597b8f6182214.jar" />
+    </item>
+
+</items>
